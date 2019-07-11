@@ -38,9 +38,6 @@ class App extends Component {
 render(){
   return (
     <div className="App">
-      <Nav
-          score={this.state.score}
-      />
     <header className="App-header">
       <h1 className="App-title">CLICKY SPORTING KC</h1>
       <p className="App-intro">
@@ -48,6 +45,7 @@ render(){
       </p>
     </header>
   
+      <Nav score={this.state.score}/>
     <Wrapper>
       <div className="row">
       {this.state.players.map(player => (

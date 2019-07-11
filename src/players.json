@@ -1,62 +1,50 @@
 [
     {
       "id": 1,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Busio,%20Gianluca.png?otiKK6roKSZFmQVej7uflt2OsfxcRWwQ&itok=dDHPHiZo",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Busio,%20Gianluca.png?otiKK6roKSZFmQVej7uflt2OsfxcRWwQ&itok=dDHPHiZo" 
     },
     {
       "id": 2,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Zusi,%20Graham.png?g5Y.DRE6MN0oyAMMtFd38rpk3ZLyBEPk&itok=1CI1GjVO",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Zusi,%20Graham.png?g5Y.DRE6MN0oyAMMtFd38rpk3ZLyBEPk&itok=1CI1GjVO" 
     },
     {
       "id": 3,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Sanchez,%20Ilie.png?KsWrgHy.Wch2xqdw9R5wsYE1rvWH8bDo&itok=qj3-9Vas",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Sanchez,%20Ilie.png?KsWrgHy.Wch2xqdw9R5wsYE1rvWH8bDo&itok=qj3-9Vas" 
     },
     {
       "id": 4,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Salloi,%20Daniel.png?2rFlAFxtd8RUZPSLE_oTlQeWHzSAFLDK&itok=Cvyrhytd",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Salloi,%20Daniel.png?2rFlAFxtd8RUZPSLE_oTlQeWHzSAFLDK&itok=Cvyrhytd" 
     },
     {
       "id": 5,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Russell,%20Johnny.png?ATrrdYdLPoMvj8oT4i1soOR0TR6uMu5d&itok=xHh8EF43",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Russell,%20Johnny.png?ATrrdYdLPoMvj8oT4i1soOR0TR6uMu5d&itok=xHh8EF43" 
     },
     {
       "id": 6,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Nemeth,%20Krisztian.png?f7GVYt8hQTKeYBGWaAzM6TtdxCO84DM1&itok=vmKQ9n60",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Nemeth,%20Krisztian.png?f7GVYt8hQTKeYBGWaAzM6TtdxCO84DM1&itok=vmKQ9n60" 
     },
     {
       "id": 7,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Melia,%20Tim.png?rnmNI4nX48rui8jBThXGF2vy.nSrf3nR&itok=g1mIMCvy",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Melia,%20Tim.png?rnmNI4nX48rui8jBThXGF2vy.nSrf3nR&itok=g1mIMCvy" 
     },
     {
       "id": 8,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Medranda,%20Jimmy.png?UeImr_aArjF9yhFqCBmX6mWcHts.GNTp&itok=48oQtW-_",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Medranda,%20Jimmy.png?UeImr_aArjF9yhFqCBmX6mWcHts.GNTp&itok=48oQtW-_" 
     },
     {
       "id": 9,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Fernandes,%20Gerso.png?jxP5k_Eh.PQbYY8M6uwrxVfJPYLJAjw_&itok=0cYtws-i",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Fernandes,%20Gerso.png?jxP5k_Eh.PQbYY8M6uwrxVfJPYLJAjw_&itok=0cYtws-i" 
     },
     {
       "id": 10,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Feilhaber,%20Benny.png?ga.giYj6QMxKwU3Hy_bJQWw6xyDKz4tm&itok=Iflu_5i3",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Feilhaber,%20Benny.png?ga.giYj6QMxKwU3Hy_bJQWw6xyDKz4tm&itok=Iflu_5i3" 
     },
     {
       "id": 11,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Besler,%20Matt.png?KH6GWE3rSXdnjQ49oMDz0kGbBCnXMq7A&itok=EGKsnavE",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Besler,%20Matt.png?KH6GWE3rSXdnjQ49oMDz0kGbBCnXMq7A&itok=EGKsnavE" 
     },
     {
       "id": 12,
-      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Fontas,%20Andreu.png?uaOIj68aOmO.L56R6cuYV_bi2H290qcy&itok=X4bs0dei",
-      "status": false  
+      "image":"https://kansascity-mp7static.mlsdigital.net/styles/image_player_headshot/s3/Fontas,%20Andreu.png?uaOIj68aOmO.L56R6cuYV_bi2H290qcy&itok=X4bs0dei" 
     }
 ]
