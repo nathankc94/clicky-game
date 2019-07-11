@@ -11,14 +11,13 @@ class App extends Component {
     players,
     clickedPlayers:[],
     score:0,
-    total:12,
-    status:""
+    total:12
   }
 
   randomizeCards = cardId => {
     let clickedPlayers = this.state.clickedPlayers;
     if(clickedPlayers.includes(cardId)){
-      this.setState({ clickedPlayers: [], score: 0, status: "GAME OVER, Press for restart"});
+      this.setState({ clickedPlayers: [], score: 0"});
       return;
     }
     else{
@@ -27,7 +26,7 @@ class App extends Component {
         this.setState({ score: 8, status: "YOU WON", clickedPlayers: []});
         return;
       }
-      this.setState({ players, clickedPlayers, score: clickedPlayers.length, status:""});
+      this.setState({ players, clickedPlayers, score: clickedPlayers.length});
 
       for (let i = players.length - 1; i > 0; i--) {
         let j = Math.floor(Math.random() * (i + 1));
